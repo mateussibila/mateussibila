@@ -58,9 +58,9 @@ Based in Ireland 🇮🇪
 |---------|------------|
 | [`Sprint 01 - Python Basics`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-01-python-basics) | Practiced **basic Python programming**, focusing on **data cleaning, manipulation, and analysis** of a small e-commerce dataset. Included string manipulation, lists, loops, conditionals, and basic user metrics. |
 | [`Sprint 02 - Pandas`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-02-pandas) | Practiced **data manipulation and analysis with pandas**, focusing on cleaning and exploring a music streaming dataset. Included handling missing values, normalizing columns, removing duplicates, filling gaps, and performing group-based analysis to test a hypothesis about user activity by city and day. |
+| [`Sprint 03 - EDA`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-03-EDA) | Focused on **Exploratory Data Analysis (EDA)** of the `order_products` dataset. Practiced **data visualization, descriptive statistics, and insights extraction** to understand product orders and trends. |
+| [`Sprint 04 - Matplotlib & Statistics`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-04-matplotlib-statistics) | Focused on **data visualization with Matplotlib and statistical analysis** of the Megaline dataset. Included **calls, messages, internet usage, plans, and users**, with visualizations and metrics to uncover patterns and customer behaviors. |
 <!--
-| Sprint 03 | Description here |
-| Sprint 04 | Description here |
 | Sprint 05 | Description here |
 | Sprint 06 | Description here |
 | Sprint 07 | Description here |
