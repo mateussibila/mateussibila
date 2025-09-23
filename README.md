@@ -60,8 +60,8 @@ Based in Ireland 🇮🇪
 | [`Sprint 02 - Pandas`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-02-pandas) | Practiced **data manipulation and analysis with pandas**, focusing on cleaning and exploring a music streaming dataset. Included handling missing values, normalizing columns, removing duplicates, filling gaps, and performing group-based analysis to test a hypothesis about user activity by city and day. |
 | [`Sprint 03 - EDA`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-03-EDA) | Focused on **Exploratory Data Analysis (EDA)** of the `order_products` dataset. Practiced **data visualization, descriptive statistics, and insights extraction** to understand product orders and trends. |
 | [`Sprint 04 - Matplotlib & Statistics`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-04-matplotlib-statistics) | Focused on **data visualization with Matplotlib and statistical analysis** of the Megaline dataset. Included **calls, messages, internet usage, plans, and users**, with visualizations and metrics to uncover patterns and customer behaviors. |
+| [`Sprint 05 - Streamlit Web App`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-05-streamlit-webapp) | Developed a **Streamlit web app** to explore vehicle data interactively. Features include **data viewing, filtering, histogram of model years, scatter plot of price vs odometer**, and interactive widgets for user engagement. |
 <!--
-| Sprint 05 | Description here |
 | Sprint 06 | Description here |
 | Sprint 07 | Description here |
 | Sprint 08 | Description here |
