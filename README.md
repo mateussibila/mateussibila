@@ -1,22 +1,28 @@
-<h1>👋 Hi, I'm Mateus Sibila!</h1>
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Mateus Sibila!</h1>
 
 **<a href="https://www.linkedin.com/in/mateussibilaromano/">Data Analyst</a>** with a background in mechanical engineering, skilled in data analysis, visualization, statistical modeling, and applying machine learning to generate insights and support decision-making from diverse datasets.  
 Based in Ireland 🇮🇪
 
 ## 🎓 Education
 
-- **BSc Mechanical Engineering** | Universidade Federal do Parana (Brasil) | 2016  
-- **Postgraduate Certificate in Data Analytics** | TripleTen | 2025  
 - **Professional Certificate in Data Analytics & Machine Learning** | UCD Professional Academy | 2025  
-<p>Languages: 🇬🇧 🇧🇷 🇪🇸</p>
+- **Postgraduate Certificate in Data Analytics** | TripleTen | 2025  
+- **BSc Mechanical Engineering** | Universidade Federal do Parana (Brasil) | 2016
+- <p>Languages: 🇬🇧 🇧🇷 🇪🇸</p>
 
 ---
 
 ## 💼 Work Experience
 
-**Mechanical Engineer & Analyst | Various Companies | 2012 – 2022**  
-- 7 years of experience in engineering, operations, and procurement, applying technical, analytical, and data-driven skills to solve problems, optimize processes, and support decision-making.  
-- Hands-on experience in data collection, analysis, reporting, and process improvement across multiple industries.
+**Data Analyst (Contract) | Emagine – Uisce Éireann (Irish Water) | Oct 2025 – Present**  
+*Dublin, Ireland*  
+- Analyzed high-volume operational data from 8,000+ corporate mobility assets, ensuring data integrity and accurate reporting.  
+- Developed dashboards and KPIs to monitor incidents, service requests, inventory, and data quality.  
+- Supported data-driven process optimization through validation, reconciliation, and cross-functional collaboration.  
+
+**Mechanical Engineer & Data Analyst | Various Companies | 2012 – 2022**  
+- 7 years of experience in engineering, operations, and procurement, applying technical, analytical, and data-driven skills to solve problems, optimize processes, and support decision-making (ExxonMobil, Bosch, Renault).  
+- Hands-on experience in data collection, analysis, reporting, and process improvement across multiple industries.  
 
 **Data Insights & Operations Assistant | Trade na Mão (Brazil) | 04/2021 – 03/2022**  
 - Analyzed financial market data, including options trading, to identify patterns and inform decision-making.  
@@ -45,6 +51,7 @@ Based in Ireland 🇮🇪
 
 ## 💼 Areas of Interest
 
+- Data Engineering  
 - Data Analysis & Visualization  
 - Machine Learning & Predictive Modeling  
 - Process Optimization & Data-Driven Decision Making  
