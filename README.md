@@ -58,28 +58,15 @@ Based in Ireland 🇮🇪
 - Analytical Projects in Business, Telecom, and E-commerce  
 
 ---
-
 ## 📌 Featured Projects
 
 | Project | Description |
 |---------|------------|
-| [`Data Warehouse Project`](https://github.com/mateussibila/sql-data-warehouse-project) | Developed a **SQL-based data warehouse**, implementing **ETL pipelines, star schema design, and fact/dimension tables**. Focused on transforming raw operational data into **clean, structured datasets** suitable for **analytics and reporting**. |
-| [`Seaborn & Statistical Tests`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-06-seaborn-stats) | Bootcamp – Sprint 6: Focused on **data visualization with Seaborn and hypothesis testing** using the `games.csv` dataset. Included **scatter plots, boxplots, regression lines, correlation analysis**, and **statistical tests** to explore patterns and relationships in game ratings and genres. |
-| [`Streamlit Web App`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-05-streamlit-webapp) | Bootcamp – Sprint 5: Developed a **Streamlit web app** to explore vehicle data interactively. Features include **data viewing, filtering, histogram of model years, scatter plot of price vs odometer**, and interactive widgets for user engagement. |
-| [`Matplotlib & Statistics`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-04-matplotlib-statistics) | Bootcamp – Sprint 4: Focused on **data visualization with Matplotlib and statistical analysis** of the Megaline dataset. Included **calls, messages, internet usage, plans, and users**, with visualizations and metrics to uncover patterns and customer behaviors. |
-| [`Exploratory Data Analysis`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-03-EDA) | Bootcamp – Sprint 3: Focused on **Exploratory Data Analysis (EDA)** of the `order_products` dataset. Practiced **data visualization, descriptive statistics, and insights extraction** to understand product orders and trends. |
-| [`Pandas`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-02-pandas) | Bootcamp – Sprint 2: Practiced **data manipulation and analysis with pandas**, focusing on cleaning and exploring a music streaming dataset. Included handling missing values, normalizing columns, removing duplicates, filling gaps, and performing group-based analysis to test a hypothesis about user activity by city and day. |
-| [`Python Basics`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-01-python-basics) | Bootcamp – Sprint 1: Practiced **basic Python programming**, focusing on **data cleaning, manipulation, and analysis** of a small e-commerce dataset. Included string manipulation, lists, loops, conditionals, and basic user metrics. |
-<!--
-| Sprint 07 | Description here |
-| Sprint 08 | Description here |
-| Sprint 09 | Description here |
-| Sprint 10 | Description here |
-| Sprint 11 | Description here |
-| Sprint 12 | Description here |
-| Sprint 13 | Description here |
-| Sprint 14 | Description here |
--->
+| [`Customer Churn Prediction`](https://github.com/mateussibila/telco_churn) | Predicted telecom customer churn using a **complete machine learning workflow** to identify at-risk customers. Implemented **data preprocessing, EDA, model training, hyperparameter tuning, and ensemble learning** using **scikit-learn and TensorFlow**. |
+| [`Data Warehouse Project`](https://github.com/mateussibila/sql-data-warehouse-project) | Built a **SQL-based data warehouse** to transform raw operational data into structured datasets for analytics. Implemented **ETL pipelines, star schema design, and fact/dimension modeling** for efficient querying and reporting. |
+| [`Streamlit Web App`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-05-streamlit-webapp) | Developed an interactive web application to explore vehicle data and support dynamic analysis. Built using **Python, Pandas, Streamlit, and Matplotlib**, with filtering, visualizations, and user-driven exploration features. |
+| [`Seaborn & Statistical Analysis`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-06-seaborn-stats) | Analyzed video game data to identify trends in sales, ratings, and platform performance across regions and time. Applied **Seaborn visualizations and statistical tests**, including correlation analysis and regression techniques. |
+| [`Matplotlib & Revenue Analysis`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-04-matplotlib-statistics) | Evaluated revenue performance of telecom prepaid plans by analyzing user behavior across calls, messages, and internet usage. Used **Python, Pandas, Matplotlib, and hypothesis testing** to uncover usage patterns and revenue drivers. |
 
 ---
 
