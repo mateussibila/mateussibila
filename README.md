@@ -1,7 +1,11 @@
-<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Mateus Sibila!</h1>
+  <h1>👋 Hi, I'm Mateus Sibila</h1>
 
-**<a href="https://www.linkedin.com/in/mateussibilaromano/">Data Analyst</a>** with a background in mechanical engineering, skilled in data analysis, visualization, statistical modeling, and applying machine learning to generate insights and support decision-making from diverse datasets.  
-Based in Ireland 🇮🇪
+  <a href="https://www.linkedin.com/in/mateussibilaromano/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn">
+  </a>
+  <a href="https://www.linkedin.com/in/mateussibilaromano/">Data Analyst</a> with a background in mechanical engineering, skilled in data analysis, visualization, statistical modeling, and applying
+   machine learning to generate insights and support decision-making from diverse datasets.
+  Based in Ireland 🇮🇪
 
 ## 🎓 Education
 
@@ -16,18 +20,18 @@ Based in Ireland 🇮🇪
 
 **Data Analyst | Emagine – Uisce Éireann (Irish Water) | Oct 2025 – Present**  
 *Dublin, Ireland*  
-- Analyzed high-volume operational data from 8,000+ corporate mobility assets, ensuring data integrity and accurate reporting.  
+- Analyzed high-volume operational data from 10,000+ corporate mobility assets, ensuring data integrity and accurate reporting.  
 - Developed dashboards and KPIs to monitor incidents, service requests, inventory, and data quality.  
 - Supported data-driven process optimization through validation, reconciliation, and cross-functional collaboration.  
-
-**Mechanical Engineer & Data Analyst | Various Companies | 2012 – 2022**  
-- 7 years of experience in engineering, operations, and procurement, applying technical, analytical, and data-driven skills to solve problems, optimize processes, and support decision-making (ExxonMobil, Bosch, Renault).  
-- Hands-on experience in data collection, analysis, reporting, and process improvement across multiple industries.  
 
 **Data Insights & Operations Assistant | Trade na Mão (Brazil) | 04/2021 – 03/2022**  
 - Analyzed financial market data, including options trading, to identify patterns and inform decision-making.  
 - Provided technical support and guidance on data interpretation and trading platform use.  
 - Communicated complex financial concepts clearly to non-technical audiences.  
+
+**Mechanical Engineer & Data Analyst | Various Companies | 2012 – 2022**  
+- 7 years of experience in data analysis, engineering, operations, and procurement, applying technical, analytical, and data-driven skills to solve problems, optimize processes, and support decision-making (ExxonMobil, Bosch, Renault).  
+- Hands-on experience in data collection, analysis, reporting, and process improvement across multiple industries.  
 
 ---
 
@@ -75,7 +79,8 @@ Based in Ireland 🇮🇪
 
 📍 Dublin, Ireland  
 📧 mateussibila@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nath%C3%A1lia-sorg-01070b320)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn">
+ [LinkedIn](https://linkedin.com/in/nath%C3%A1lia-sorg-01070b320)
 <!-- 📜 [Currículo Lattes](http://lattes.cnpq.br/)   -->
 
 <!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
