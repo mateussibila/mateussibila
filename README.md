@@ -29,7 +29,7 @@
 - Built end to end data ingestion pipelines in Python, taking data from source systems through processing to usable analytical outputs (Python, pandas, Pillow, requests).  
 - Implemented fail closed validation checks to protect data integrity before downstream use.  
 
-**Data Insights & Operations Assistant | Trade na Mão (Brazil) | 04/2021 – 03/2022**  
+**Data Insights & Operations Assistant | Trade na Mão (Brazil) | Apr 2021 – Mar 2022**  
 - Analyzed financial market data, including options trading, to identify patterns and inform decision-making.  
 - Provided technical support and guidance on data interpretation and trading platform use.  
 - Communicated complex financial concepts clearly to non-technical audiences.  
