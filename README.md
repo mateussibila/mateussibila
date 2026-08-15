@@ -10,7 +10,7 @@
 ## 🎓 Education
 
 - **Professional Certificate in Data Analytics & Machine Learning** | UCD Professional Academy | 2025  
-- **Postgraduate Certificate in Data Analytics** | TripleTen | 2025  
+- **Postgraduate Certificate in Data Analytics** | TripleTen (UniBF) | 2024 – 2025  
 - **BSc Mechanical Engineering** | Universidade Federal do Parana (Brasil) | 2016
 - <p>Languages: 🇬🇧 🇧🇷 🇪🇸</p>
 
@@ -18,7 +18,7 @@
 
 ## 💼 Work Experience
 
-**Data Analyst | Emagine – Uisce Éireann (Irish Water) | Oct 2025 – Present**  
+**Data Analyst | Uisce Éireann (Irish Water) (Contract via emagine) | Oct 2025 – Present**  
 *Dublin, Ireland*  
 - Analyzed high-volume operational data from 10,000+ corporate mobility assets, ensuring data integrity and accurate reporting.  
 - Developed dashboards and KPIs to monitor incidents, service requests, inventory, and data quality.  
@@ -29,7 +29,7 @@
 - Built end to end data ingestion pipelines in Python, taking data from source systems through processing to usable analytical outputs (Python, pandas, Pillow, requests).  
 - Implemented fail closed validation checks to protect data integrity before downstream use.  
 
-**Data Insights & Operations Assistant | Trade na Mão (Brazil) | Apr 2021 – Mar 2022**  
+**Data Insights Analyst | Trade na Mão (Brazil) | Apr 2021 – Mar 2022**  
 - Analyzed financial market data, including options trading, to identify patterns and inform decision-making.  
 - Provided technical support and guidance on data interpretation and trading platform use.  
 - Communicated complex financial concepts clearly to non-technical audiences.  
@@ -55,6 +55,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-FA6C23?style=for-the-badge&logo=tableau&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -74,7 +76,7 @@
 | Project | Description |
 |---------|------------|
 | [`Customer Churn Prediction`](https://github.com/mateussibila/telco_churn) | Predicted telecom customer churn using a **complete machine learning workflow** to identify at-risk customers. Implemented **data preprocessing, EDA, model training, hyperparameter tuning, and ensemble learning** using **scikit-learn and TensorFlow**. |
-| [`Data Warehouse Project`](https://github.com/mateussibila/sql-data-warehouse-project) | Built a **SQL-based data warehouse** to transform raw operational data into structured datasets for analytics. Implemented **ETL pipelines, star schema design, and fact/dimension modeling** for efficient querying and reporting. |
+| [`Data Warehouse Project`](https://github.com/mateussibila/sql-data-warehouse-project) | Built a **SQL-based data warehouse** to transform raw operational data into structured datasets for analytics. Implemented **ETL pipelines, Medallion Architecture on Databricks, star schema design, and fact/dimension modeling** for efficient querying and reporting. |
 | [`Streamlit Web App`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-05-streamlit-webapp) | Developed an interactive web application to explore vehicle data and support dynamic analysis. Built using **Python, Pandas, Streamlit, and Matplotlib**, with filtering, visualizations, and user-driven exploration features. |
 | [`Seaborn & Statistical Analysis`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-06-seaborn-stats) | Analyzed video game data to identify trends in sales, ratings, and platform performance across regions and time. Applied **Seaborn visualizations and statistical tests**, including correlation analysis and regression techniques. |
 | [`Matplotlib & Revenue Analysis`](https://github.com/mateussibila/Data-Analytics-Post-Graduation/tree/main/sprint-04-matplotlib-statistics) | Evaluated revenue performance of telecom prepaid plans by analyzing user behavior across calls, messages, and internet usage. Used **Python, Pandas, Matplotlib, and hypothesis testing** to uncover usage patterns and revenue drivers. |
